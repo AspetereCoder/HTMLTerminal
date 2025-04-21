@@ -27,7 +27,7 @@ You can see the project by following these steps:
 <ol>
   <li>clone this repo by opening your terimal and pasting: <code>git clone https://github.com/AspetereCoder/HTMLTerminal.git</code></li>
   <li>open the folder with your visual studio code</li>
-  <li>go the html file and click "Go Live", this will open the file in your browser"</li>
+  <li>go the html file and click "Go Live", this will open the file in your browser</li>
   <li>and finally open the index.html file with live server extension</li>
 </ol>
 
