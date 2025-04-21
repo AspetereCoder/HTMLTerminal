@@ -7,21 +7,28 @@
 <h2>🔨 Features</h2>
 <ul>
   <li>A functional terminal</li>
-  <li>A functional keyboard (some keys not)</li>
+  <li>A functional keyboard</li>
   <li>Some basic commands, type <code>cmd</code> or <code>help</code> to see</li>
-
 </ul>
 
 <h2>⚠️⚠️ Responsivity ⚠️⚠️</h2>
-Currently I'm not planning on making this project responsive
+I'm not planning on making this project responsive, so the only way you can visualize it is on your pc
+
+<h2>Requirements</h2>
+<ul>
+  <li>Visual studio code</li>
+  <li>The **Live Server** extension</li>
+</ul>
 
 <h2>Visualization</h2>
 
 You can see the project by following these steps:
 
 <ol>
-  <li>clone this repo by opening your terimal and pasting this: <code>git clone https://github.com/AspetereCoder/HTMLTerminal.git</code></li>
+  <li>clone this repo by opening your terimal and pasting: <code>git clone https://github.com/AspetereCoder/HTMLTerminal.git</code></li>
   <li>open the folder with your visual studio code</li>
+  <li>go the html file and click "Go Live", this will open the file in your browser"</li>
   <li>and finally open the index.html file with live server extension</li>
 </ol>
+
 
