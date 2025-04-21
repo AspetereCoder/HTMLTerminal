@@ -17,7 +17,7 @@ I'm not planning on making this project responsive, so the only way you can visu
 <h2>Requirements</h2>
 <ul>
   <li>Visual studio code</li>
-  <li>The **Live Server** extension</li>
+  <li>The <strong>Live server</strong> extension</li>
 </ul>
 
 <h2>Visualization</h2>
